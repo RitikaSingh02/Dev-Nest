@@ -1,0 +1,34 @@
+.clock{
+    border: 50px solid red;
+    display: inline-block;
+    border-radius: 50%;
+    position: absolute;
+    top: 0px;
+    left: 413px;
+    height: 477px;
+    width: 500px;
+}
+.hour{
+    border: 5px solid black;
+    display: inline-block;
+    position: absolute;
+    width: 200px;
+    top: 222px;
+    left: 256px;
+}
+.min{
+    border: 5px solid black;
+    display: inline-block;
+    position: absolute;
+    height: 208px;
+    top: 223px;
+    left: 256px;
+}
+.sec{
+    border: 5px solid black;
+    display: inline-block;
+    position: absolute;
+    top: 6px;
+    left: 256px;
+    height: 215px;
+}
