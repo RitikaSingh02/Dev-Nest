@@ -1,0 +1,21 @@
+*{
+    height: 100%;
+}
+body{
+    background-image: url("./tree_swing.svg");
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: cover;  
+    /* opacity: 0.2;   */
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items:left;
+    border: black;
+    border-style: dotted;
+    border-width: 2px;
+
+}
